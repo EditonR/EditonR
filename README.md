@@ -1,6 +1,5 @@
 ## Olá! Eu sou o Editon Renne, porém pode me chamar de Eddie!
 
-Here are some ideas to get you started:
 
 - 🔭 Hoje eu trabalho como analista de desenvolvimento pela a Diallink Contact Center
 - 🌱 Estudando programação FULLSTACK e aprendendo JavaScript 🚀
@@ -28,7 +27,7 @@ Here are some ideas to get you started:
     
   </div>
 
-![Snake animation] (https://github.com/EditonR/EditonR/blob/main/.github/workflows/cobrinha.yml)
+![Snake animation] (https://github.com/EditonR/EditonR/blob/main/output/github-contribution-grid-snake.svg)
   
 
 
