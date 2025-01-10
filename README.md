@@ -28,6 +28,7 @@ Here are some ideas to get you started:
     
   </div>
 
+![Snake animation] (https://github.com/EditonR/EditonR/blob/main/.github/workflows/cobrinha.yml)
   
 
 
