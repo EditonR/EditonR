@@ -6,7 +6,11 @@
 - 📫 Contate-me no email: editonrenne1997@hotmail.com
 - 😄 Pronouns: Ele/Dele
 
- 
+  <div>
+    <a href="https://github.com/EditonR">
+    
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EditonR&layout=compact&langs_count=16&theme=dark"/>
+  </div>
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Editon-HTML" height="50" width"40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
