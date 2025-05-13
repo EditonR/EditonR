@@ -1,33 +1,50 @@
 ## Olá! Eu sou o Editon Renne, porém pode me chamar de Eddie!
 
+## Sobre mim
 
-- 🔭 Hoje eu trabalho como analista de desenvolvimento pela a Diallink Contact Center
-- 🌱 Estudando programação FULLSTACK e aprendendo JavaScript 🚀
+- 💼 Trabalhando como {Analista de desenvolvimento} na {Diallink Contact Center LTDA.}.
+- 🎓 Estudando {FULLSTACK e JavaScript 🚀} pela {Rocketseat}.
 - 📫 Contate-me no email: editonrenne1997@hotmail.com
 - 😄 Pronouns: Ele/Dele
 
   <div>
+    <a href="https://github.com/EditonR" title="Perfil do Editon">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EditonR&theme=dark&show_icons=true" />
+  </a>
+  
+    
     <a href="https://github.com/EditonR">
     
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EditonR&layout=compact&langs_count=16&theme=dark"/>
-  </div>
 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Editon-HTML" height="50" width"40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Editon-CSS" height="50" width"40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Editon-Js" height="50" width"40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  </div>
-
-  ##
-
-  <div>
-    <p>Você pode me encontrar nas redes sociais abaixo:</p>
-    <a href ="https://www.instagram.com/eddieesqed/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"</a>
-    <a href ="https://www.linkedin.com/in/editon-renne-016196251/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"</a>
     
   </div>
 
-<!--![Snake animation] (https://github.com/EditonR/EditonR/blob/main/output/github-contribution-grid-snake.svg)>
+  **Aplicações e dados**:
+
+  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+
+
+  
+  **Utilidades**:
+  
+  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
   
 
+  **DevOps**:
 
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Mautic](https://img.shields.io/badge/-Mautic-333333?style=flat&logo=mautic)
+
+  **Ferramentas de desenvolvimento**:
+
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+  
+  
