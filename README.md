@@ -7,18 +7,7 @@
 - 📫 Contate-me no email: editonrenne1997@hotmail.com
 - 😄 Pronouns: Ele/Dele
 
-  <div>
-    <a href="https://github.com/EditonR" title="Perfil do Editon">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EditonR&theme=dark&show_icons=true" />
-  </a>
   
-    
-    <a href="https://github.com/EditonR">
-    
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EditonR&layout=compact&langs_count=16&theme=dark"/>
-
-    
-  </div>
 
   **Aplicações e dados**:
 
